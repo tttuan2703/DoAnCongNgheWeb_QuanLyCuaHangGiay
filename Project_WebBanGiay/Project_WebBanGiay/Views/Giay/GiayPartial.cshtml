@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "GiayPartial";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+@using Project_WebBanGiay.Controllers
+@using Project_WebBanGiay.Models;
+@model List<Giay>
+
+<div class="row ml-4">
+@{
+    foreach(var item in Model){
+        <div class="col-4 text-center">
+            <img src="@Url.Content("~/images/"+item.hinh)" width="95%" height="200px" alt="Image" />
+            @*Ten sach chi hien thi khong qua 30 ky tu*@
+            @if (item.tenGiay.Length > 50)
+            { 
+                <p><strong title="@item.tenGiay">@item.tenGiay.Substring(0,30)...</strong></p>
+                <p>Giá: <b style="color:red">@item.DonGia vnđ</b></p>
+                <a href="@Url.Action("XemChiTiet", new { @maG=item.maGiay})">Xem chi tiết</a>
+                <br />
+            }
+            else
+            {
+                <p><strong title="@item.tenGiay">@item.tenGiay</strong></p>
+                <p>Giá: <b style="color:red">@item.DonGia vnđ</b></p>
+                <a href="@Url.Action("XemChiTiet", new { @maG=item.maGiay})">Xem chi tiết</a>
+                <br />      
+            }
+            <div class="clear"></div>
+        </div>
+    }
+    }
+</div>

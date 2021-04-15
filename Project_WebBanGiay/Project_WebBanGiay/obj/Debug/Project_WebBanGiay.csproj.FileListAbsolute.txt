@@ -1,0 +1,222 @@
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\Project_WebBanGiay.dll
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\Project_WebBanGiay.pdb
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\Microsoft.Web.Infrastructure.dll
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\Newtonsoft.Json.dll
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.dll
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.WebRequest.dll
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Helpers.dll
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Mvc.dll
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Razor.dll
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Deployment.dll
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.dll
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Razor.dll
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\Newtonsoft.Json.xml
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.xml
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.WebRequest.xml
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Helpers.xml
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Mvc.xml
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Razor.xml
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.xml
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Deployment.xml
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Razor.xml
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.csprojResolveAssemblyReference.cache
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.dll
+D:\Công Nghệ Web\Nhom1_DeTaiWeb\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.pdb
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Project_WebBanGiay.dll
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Project_WebBanGiay.pdb
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.dll
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.Formatting.dll
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.WebRequest.dll
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Http.dll
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Http.WebHost.dll
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.xml
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.Formatting.xml
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.WebRequest.xml
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Http.xml
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Http.WebHost.xml
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.dll
+C:\Users\DELL\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.pdb
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Project_WebBanGiay.dll
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Project_WebBanGiay.pdb
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Newtonsoft.Json.dll
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.dll
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.WebRequest.dll
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Helpers.dll
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Mvc.dll
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Razor.dll
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.dll
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Razor.dll
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Newtonsoft.Json.xml
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.xml
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.WebRequest.xml
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Helpers.xml
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Mvc.xml
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Razor.xml
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.xml
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Razor.xml
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.csprojResolveAssemblyReference.cache
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.dll
+C:\Users\TaiThanhTuan\OneDrive\Desktop\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.pdb
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Project_WebBanGiay.dll
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Project_WebBanGiay.pdb
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.dll
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.Formatting.dll
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.WebRequest.dll
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Http.dll
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Http.WebHost.dll
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Razor.dll
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.dll
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.xml
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.Formatting.xml
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.WebRequest.xml
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Helpers.xml
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Http.xml
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Http.WebHost.xml
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Razor.xml
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.xml
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.dll
+C:\Users\DELL\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.pdb
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Project_WebBanGiay.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Project_WebBanGiay.pdb
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Newtonsoft.Json.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.WebRequest.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Helpers.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Mvc.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Razor.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Razor.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Newtonsoft.Json.xml
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.xml
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.WebRequest.xml
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Helpers.xml
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Mvc.xml
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Razor.xml
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.xml
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Razor.xml
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.csprojResolveAssemblyReference.cache
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\Project_WebBanGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.pdb
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Project_WebBanGiay.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Project_WebBanGiay.pdb
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Newtonsoft.Json.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.WebRequest.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Helpers.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Mvc.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Razor.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Razor.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Newtonsoft.Json.xml
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.xml
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.WebRequest.xml
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Helpers.xml
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Mvc.xml
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Razor.xml
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.xml
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Razor.xml
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.csprojResolveAssemblyReference.cache
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.dll
+C:\Users\TaiThanhTuan\Downloads\Project_WebBanGiay (1)\TaiThanhTuan_TranNgocHai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.pdb
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Project_WebBanGiay.dll.config
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Project_WebBanGiay.dll
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Project_WebBanGiay.pdb
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Microsoft.Web.Infrastructure.dll
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Newtonsoft.Json.dll
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.dll
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.Formatting.dll
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.WebRequest.dll
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Helpers.dll
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Http.dll
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Http.WebHost.dll
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Mvc.dll
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Razor.dll
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Deployment.dll
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.dll
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Razor.dll
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Newtonsoft.Json.xml
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.xml
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.Formatting.xml
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.WebRequest.xml
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Helpers.xml
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Http.xml
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Http.WebHost.xml
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Mvc.xml
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Razor.xml
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.xml
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Deployment.xml
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Razor.xml
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.csprojAssemblyReference.cache
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.csproj.CoreCompileInputs.cache
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.csproj.CopyComplete
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.dll
+D:\Công Nghệ Web\Nhom1_DaCapNhatLai_QLBanGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.pdb
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Project_WebBanGiay.dll.config
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Project_WebBanGiay.dll
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Project_WebBanGiay.pdb
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Microsoft.Web.Infrastructure.dll
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Newtonsoft.Json.dll
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.dll
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.Formatting.dll
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.WebRequest.dll
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Helpers.dll
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Http.dll
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Http.WebHost.dll
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Mvc.dll
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Razor.dll
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Deployment.dll
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.dll
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Razor.dll
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\Newtonsoft.Json.xml
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.xml
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.Formatting.xml
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Net.Http.WebRequest.xml
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Helpers.xml
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Http.xml
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Http.WebHost.xml
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Mvc.xml
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.Razor.xml
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.xml
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Deployment.xml
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\bin\System.Web.WebPages.Razor.xml
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.csprojAssemblyReference.cache
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.csproj.CoreCompileInputs.cache
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.csproj.CopyComplete
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.dll
+D:\PTPMTM\BaoCaoDeTai\DoAnCongNgheWeb_QuanLyCuaHangGiay\Project_WebBanGiay\Project_WebBanGiay\obj\Debug\Project_WebBanGiay.pdb

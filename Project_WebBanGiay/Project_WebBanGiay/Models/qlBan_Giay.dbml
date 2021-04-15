@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="dbQLBanGiay" Class="qlBan_GiayDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=DESKTOP-DUNE5LV\SQLEXPRESS;Initial Catalog=dbQLBanGiay;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="dbQLBanGiayConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.admin" Member="admins">
+    <Type Name="admin">
+      <Column Name="tenTaiKhoan" Type="System.String" DbType="VarChar(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="matKhau" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ThongTinTaiKhoan" Member="ThongTinTaiKhoans">
+    <Type Name="ThongTinTaiKhoan">
+      <Column Name="tenTaiKhoan" Type="System.String" DbType="VarChar(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="matKhau" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="hoTen" Type="System.String" DbType="NVarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="ngaySinh" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="gioiTinh" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="SDT" Type="System.String" DbType="VarChar(12)" CanBeNull="true" />
+      <Column Name="diaChi" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="ThongTinTaiKhoan_HoaDon" Member="HoaDons" ThisKey="tenTaiKhoan" OtherKey="tenTaiKhoan" Type="HoaDon" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ChiTietHoaDon" Member="ChiTietHoaDons">
+    <Type Name="ChiTietHoaDon">
+      <Column Name="MaHoaDon" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="maGiay" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="slMua" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="thanhTien" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="Giay_ChiTietHoaDon" Member="Giay" ThisKey="maGiay" OtherKey="maGiay" Type="Giay" IsForeignKey="true" />
+      <Association Name="HoaDon_ChiTietHoaDon" Member="HoaDon" ThisKey="MaHoaDon" OtherKey="maHoaDon" Type="HoaDon" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DanhMucGiay" Member="DanhMucGiays">
+    <Type Name="DanhMucGiay">
+      <Column Name="maDanhMuc" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="tenDanhMuc" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="DanhMucGiay_Giay" Member="Giays" ThisKey="maDanhMuc" OtherKey="maDanhMuc" Type="Giay" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Giay" Member="Giays">
+    <Type Name="Giay">
+      <Column Name="maGiay" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="tenGiay" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="size" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="maDanhMuc" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="hinh" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="slTon" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DonGia" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="moTa" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="Giay_ChiTietHoaDon" Member="ChiTietHoaDons" ThisKey="maGiay" OtherKey="maGiay" Type="ChiTietHoaDon" />
+      <Association Name="DanhMucGiay_Giay" Member="DanhMucGiay" ThisKey="maDanhMuc" OtherKey="maDanhMuc" Type="DanhMucGiay" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HoaDon" Member="HoaDons">
+    <Type Name="HoaDon">
+      <Column Name="maHoaDon" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="tenTaiKhoan" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="ngayBan" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="TongTien" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="HoaDon_ChiTietHoaDon" Member="ChiTietHoaDons" ThisKey="maHoaDon" OtherKey="MaHoaDon" Type="ChiTietHoaDon" />
+      <Association Name="ThongTinTaiKhoan_HoaDon" Member="ThongTinTaiKhoan" ThisKey="tenTaiKhoan" OtherKey="tenTaiKhoan" Type="ThongTinTaiKhoan" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

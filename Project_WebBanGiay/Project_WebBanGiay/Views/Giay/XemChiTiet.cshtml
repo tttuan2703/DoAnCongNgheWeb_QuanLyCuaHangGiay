@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "XemChiTiet";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+@using Project_WebBanGiay.Controllers
+@model Project_WebBanGiay.Models.Giay
+<h2 style="color:Background;text-align:center;font-weight:bold;margin-top:30px">XemChiTiet</h2>
+
+<div class="card border-dark">
+    <table class="border-dark mx-3 mb-3 mt-3"style="color:black;">
+        <tr class="text-left">
+            <td rowspan="5" width="45%">
+                <img class="card-header" src="~/images/@Model.hinh" width="85%" height="130%" style="border:1px solid #000" alt="Image">
+            </td>
+            <td width="20%">Tên Giày</td>
+             <td width="35%" style="font-weight:bold; color:blue;">@Model.tenGiay</td>
+        </tr>
+        <tr class="text-left">
+            <td>Size Giày:</td>
+            <td >@Model.size</td>
+        </tr>
+        <tr class="text-left">
+            <td>Mô Tả:</td>
+            <td style="color:blue;">@Model.moTa</td>
+        </tr>
+      
+        <tr class="text-left">
+            <td>Giá Bán:</td>
+            
+            <td style="color:red; font-weight:bold;">@string.Format("{0:0,0}",@Model.DonGia ) VND</td>
+        </tr>
+        <tr class="text-right">
+            <td>
+                <a href="@Url.Action("ThemGioHang", "GioHang", new { @mg = Model.maGiay, @strURL= Request.Url.ToString()})">
+                    <input type="button" value="Mua " class="btn btn-primary float-left" />
+                </a>
+              
+                <a href="@Url.Action("DanhMucPartial_TungLoai","DanhMuc")">
+                    <input  type="button" value="Mua tiếp" class="btn btn-primary float-right" />
+                </a>
+
+            </td>
+            <td>
+                <a href="@Url.Action("GioHang","GioHang")"><input type="submit" class="btn btn-primary rounded" value="QUAY LẠI GIỎ HÀNG" /></a>
+
+            </td>
+        </tr>
+
+    </table>
+</div>

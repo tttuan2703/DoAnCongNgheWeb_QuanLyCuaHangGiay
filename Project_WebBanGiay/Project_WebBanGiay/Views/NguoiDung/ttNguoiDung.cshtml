@@ -1,0 +1,52 @@
+﻿@model Project_WebBanGiay.Models.ThongTinTaiKhoan
+
+@{
+    ViewBag.Title = "ttNguoiDung";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+@using Project_WebBanGiay.Controllers
+<style>
+    [col*=""
+</style>
+<div class="container" style="color:black">
+    <h2 style="color:Background;text-align:center">THÔNG TIN TÀI KHOẢN</h2>
+
+
+    <div class="form-group">
+         <p>Họ tên</p>
+        @Html.TextBoxFor(model => model.hoTen, new { @class="w-75"})
+    </div>
+
+    <div class="form-group">
+         <p>Email</p>
+        @Html.TextBoxFor(model => model.Email, new { @class="w-75"})
+    </div>
+
+    <div class="form-group">
+        <p>Ngày Sinh</p>
+        @Html.TextBoxFor(model => model.ngaySinh, new { @class="w-75"})
+    </div>
+
+    <div class="form-group"><p>Giới tính</p>
+         @if (Model.gioiTinh == false) { 
+            @Html.TextBox("Nam","Nam", new { @class="w-75"})
+         }
+         else{
+            @Html.Display("Nữ","Nữ", new { @class="w-75"})
+         }
+    </div>
+
+    <div class="form-group">
+        <p>Số điện thoại</p>
+        @Html.TextBoxFor(model => model.SDT, new { @class="w-75"})
+    </div>
+
+    <div class="form-group">
+        <p>Địa chỉ</p>
+        @Html.TextBoxFor(model => model.diaChi, new { @class="w-75"})
+    </div>
+<p>
+    @Html.ActionLink("Cập nhật", "Edit", new { id=Model.tenTaiKhoan }) |
+    @Html.ActionLink("Quay trở lại", "DanhMucPartial_TungLoai","DanhMuc")
+</p>
+</div>

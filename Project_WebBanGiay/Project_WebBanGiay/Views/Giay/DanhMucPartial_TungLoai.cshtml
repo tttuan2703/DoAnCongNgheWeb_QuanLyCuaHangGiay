@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "DanhMucPartial_TungLoai";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+@using Project_WebBanGiay.Controllers
+@model List<Project_WebBanGiay.Models.DanhMucGiay>
+<style>
+    .sp {
+        text-align: center;
+        font-size: 20px;
+        border-bottom: 1px solid black;
+    }
+
+    .xemct {
+        padding-top: 20px;
+        float: right;
+        color: lightcoral;
+        font-weight: bold;
+    }
+</style>
+<ul class="list-group list-group-flush text-left table-hover">
+    @{
+        foreach (var item in Model)
+        {
+            <li class="list-group-item">
+                <div class="sp">
+                    <h2 style="text-align:center"> @item.tenDanhMuc </h2>
+                    <a class="xemct" href="@Url.Action("DanhMucTheoTen","DanhMuc", new { @maDanhMuc=item.maDanhMuc})">Xem chi tiết</a>
+                </div>
+                @Html.Action("GiayPartial_TheoDM", "Giay", new { @maDM = item.maDanhMuc })
+            </li>
+
+        }
+    }
+</ul>

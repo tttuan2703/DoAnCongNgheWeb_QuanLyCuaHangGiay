@@ -1,0 +1,17 @@
+﻿@using Project_WebBanGiay.Controllers
+<style>
+    [class*='list-group-item']:hover {
+        background-color:steelblue;
+    }
+</style>
+<ul class="list-group list-group-flush text-left">
+                    @{
+                        foreach(var item in Model)
+                        {
+                            <li class="list-group-item">
+                                <a href="@Url.Action("DanhMucTheoTen", "DanhMuc", new { @maDanhMuc= item.maDanhMuc })" style="text-transform:uppercase; text-decoration:none;color:#000">@item.tenDanhMuc</a> 
+                            </li>    
+                        }
+                    }
+                </ul>
+

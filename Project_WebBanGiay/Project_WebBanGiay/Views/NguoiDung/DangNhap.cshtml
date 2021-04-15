@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "DangNhap";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+@using Project_WebBanGiay.Controllers
+@using Project_WebBanGiay.Models
+@model ThongTinTaiKhoan
+<h2>DangNhap</h2>
+
+<div class="container " style="color:#000;width:850px">
+    <h2 class="text-center">ĐĂNG NHẬP TÀI KHOẢN</h2>
+    <table class="table">
+    @using (Html.BeginForm()) {
+        @Html.ValidationSummary(true)
+        <tr class="form-group">
+            <td>Tên đăng nhập</td>
+            <td>@Html.TextBox("tenTaiKhoan","", new { @class="form-control"})
+                <b style="color:red">@ViewBag.Loi1</b>
+            </td>
+        </tr>
+        <tr class="form-group">
+            <td>Mật khẩu</td>
+            <td>@Html.Password("matKhau","", new { @class="form-control"})
+                <b style="color:red">@ViewBag.Loi2</b>
+            </td>
+        </tr>
+        <tr class="form-group">
+           <td></td>
+            <td><input type="submit" value="Đăng nhập" /><br />
+                <b style="color:red">@ViewBag.LoiKH</b>
+            </td>
+        </tr>
+    }
+    </table>
+</div>

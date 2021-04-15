@@ -1,0 +1,9 @@
+﻿@{
+    ViewBag.Title = "Index1";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+@using Project_WebBanGiay.Controllers
+<div class="container" style="color:#000;width:850px">
+    <h2>Giỏ hàng chưa có gì hết !</h2>
+    <a href="@Url.Action("DanhMucPartial_TungLoai","DanhMuc")"><input type="submit" class="btn btn-info rounded" value="QUAY VỀ TRANG CHỦ" /></a>
+</div>

@@ -1,0 +1,65 @@
+﻿@{
+    ViewBag.Title = "DangKy";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+@using Project_WebBanGiay.Controllers
+@model Project_WebBanGiay.Models.ThongTinTaiKhoan
+<h2 style="color:Background;text-align:center">ĐĂNG KÝ TÀI KHOẢN</h2>
+<table class="table " style="color:black;width:850px">
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+
+        <tr class="form-group">
+            <td style="color:black">Họ tên</td>
+            <td>@Html.TextBox("ten","", new { @class="form-control"})
+                <b style="color:red">@ViewBag.LoiHoTen</b>
+            </td>
+        </tr>
+    <tr class="form-group">
+            <td>Tên đăng nhập</td>
+            <td>@Html.TextBox("tenTaiKhoan","", new { @class="form-control"})
+                <b style="color:red">@ViewBag.LoiTenDN</b>
+            </td>
+        </tr>
+    <tr class="form-group">
+            <td>Mật khẩu</td>
+            <td>@Html.Password("matKhau","", new { @class="form-control"})
+                <b style="color:red">@ViewBag.LoiMatKhau</b>
+            </td>
+        </tr>
+    <tr class="form-group">
+            <td>Nhập lại mật khẩu</td>
+            <td>@Html.Password("ReMatKhau","", new { @class="form-control"})
+                <b style="color:red">@ViewBag.LoiReMatKhau</b>
+            </td>
+        </tr>
+    <tr class="form-group">
+            <td>Điện thoại</td>
+            <td>@Html.TextBox("SDT","", new { @class="form-control"})
+                <b style="color:red">@ViewBag.LoiDienThoai</b>
+            </td>
+        </tr>
+    <tr class="form-group">
+            <td>Ngày sinh</td>
+            <td><input type="date" name="NgaySinh" style="width:400px" class="form-control" />
+                <b style="color:red">@ViewBag.LoiNgaySinh</b>
+            </td>
+        </tr>
+    <tr class="form-group">
+            <td>Email</td>
+            <td><input type="email" name="Email" style="width:400px" class="form-control" />
+                <b style="color:red">@ViewBag.LoiEmail</b>
+            </td>
+        </tr>
+    <tr class="form-group">
+            <td>Địa chỉ</td>
+            <td>@Html.TextBox("diachi","", new { @class="form-control"})
+                <b style="color:red">@ViewBag.LoiDiaChi</b>
+            </td>
+        </tr>
+       <tr class="form-group">
+           <td></td>
+            <td><input type="submit" value="Đăng Ký" /></td>
+        </tr>
+}
+</table>

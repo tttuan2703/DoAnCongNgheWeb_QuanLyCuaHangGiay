@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "XacNhanDonHang";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+@using Project_WebBanGiay.Controllers
+<h2 style="color:black; text-align:center;">XÁC NHẬN ĐƠN ĐẶT HÀNG</h2>
+<div class="container" style="width:850px; height:350px ; color:black;">
+    <script>
+        window.alert("Đơn hàng của quý khách đã được hệ thống ghi nhận, chúng tôi sẽ giao hàng đúng hẹn !!");
+    </script>
+    <p>Đơn hàng của quý khách đã được hệ thống ghi nhận, chúng tôi sẽ giao hàng đúng hẹn !</p>
+    <a href="@Url.Action("GiayPartial","Giay")">VỂ TRANG CHỦ</a>
+</div>

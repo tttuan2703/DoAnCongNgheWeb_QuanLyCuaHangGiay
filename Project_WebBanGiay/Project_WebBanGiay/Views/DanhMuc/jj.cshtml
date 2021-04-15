@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "jj";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+@using Project_WebBanGiay.Controllers
+<h2>jj</h2>
+<div style="color:black">
+<script type="text/javascript">
+            function lnkLogout_Confirm()
+            {
+                var bResponse = confirm('Are you sure you want to exit?');
+
+                if (bResponse === true) {
+                    ////console.log("lnkLogout_Confirm clciked.");
+                    var url = '@Url.Action("GioHang", "GioHang")';
+                    window.location.href = url;
+                }
+                return bResponse;
+            }
+
+        </script>
+    </div>

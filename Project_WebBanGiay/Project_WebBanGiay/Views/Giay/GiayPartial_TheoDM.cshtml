@@ -1,0 +1,40 @@
+﻿<style>
+    .lsp .anhsp {
+    width:200px;
+    height:230px;
+    border:1px solid black;
+    }
+    .lsp .anhsp:hover {
+        -webkit-transform: scale(1.3);
+	   -moz-transform: scale(1.3);
+	    -ms-transform: scale(1.3);
+	     -o-transform: scale(1.3);
+	        transform: scale(1.3);
+}
+</style>
+@using Project_WebBanGiay.Controllers
+<div class="row ml-4">
+@{
+    foreach(var item in Model){
+        <div class="col-4 text-center">
+            <a class="lsp" href="@Url.Action("XemChiTiet", new { @maG=item.maGiay})"><img class="anhsp" src="@Url.Content("~/images/"+item.hinh)" width="95%" height="200px" alt="Image" /></a>
+            @*Ten sach chi hien thi khong qua 30 ky tu*@
+            @if (item.tenGiay.Length > 50)
+            { 
+                <p><strong title="@item.tenGiay">@item.tenGiay.Substring(0,30)...</strong></p>
+                <p>Giá: <b style="color:red">@item.DonGia vnđ</b></p>
+                <a href="@Url.Action("XemChiTiet","Giay", new { @maG=item.maGiay})" style="color:lightcoral;font-weight:bold">Xem chi tiết</a>
+                <br />
+            }
+            else
+            {
+                <p><strong title="@item.tenGiay">@item.tenGiay</strong></p>
+                <p>Giá: <b style="color:red">@item.DonGia vnđ</b></p>
+                <a href="@Url.Action("XemChiTiet","Giay", new { @maG=item.maGiay})" style="color:lightcoral;font-weight:bold">Xem chi tiết</a>
+                <br />      
+            }
+            <div class="clear"></div>
+        </div>
+    }
+    }
+</div>
